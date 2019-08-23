@@ -1,0 +1,13 @@
+TODO:
+
+
+3) try to see if you can break up some of the functionaluty in AddReservation to multiple functions
+4) CheckCapacity and IsAvailable -- add "else" in case restaurant_id is not valid
+** evry Bye Bye just exit the function and not the whole process
+4) menus
+5) print reports (how many reservations in a restorant so far, how many reservations in total, how many customer in total etc...)
+
+README
+Eat0ut is a database system for resturants' reservations with interactive inputs from the users and rich querying and reporting capabilities. future file i/o capabilities.
+The database includes separate Customers and Restaurants enetites, and a Reservations weak enetity. The system also provide rich search options (by customers, by restaurant or by reservation). 
+In the future the system will also provide file i/o capabilities.

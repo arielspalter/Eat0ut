@@ -1,1 +1,0 @@
-g++ -O3 src/eatout_app.cpp src/restaurant_table.cpp src/restaurant_record.cpp src/customer_record.cpp src/customer_table.cpp src/reservation_record.cpp src/reservations_table.cpp src/DB.cpp src/io_operations.cpp -o Eat0ut
